@@ -1,0 +1,1 @@
+Directory save file's of the generator of texts.
